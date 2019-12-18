@@ -1,2 +1,2 @@
 # LINUX-SCRIPTS
-This Repo would be updated with .sh scripts to perform common tasks on Linux
+As a Linux server Admin, you find that you tend to repeat certain tasks.  This is even more common when you are managing several Linux Servers.   
